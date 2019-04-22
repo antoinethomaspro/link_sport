@@ -1,0 +1,60 @@
+.aside, .main-container {
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+.aside {
+    border: solid 1px grey;
+    width: 300px;
+}
+
+.main-container {
+    width: calc(100vw - 300px);
+}
+
+
+
+p{
+    color: blue;
+}
+
+body {
+    background-color: lightblue;
+  }
+
+h1 {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.boxForm{
+    background-color: green;
+}
+
+.info
+{
+  margin-left: 550px;
+  margin-top : 40px;
+
+  background-color: yellow;
+  padding: 10px;
+  border: solid medium red;
+
+}
+
+.titre
+{
+	background-color:white;
+	margin-top : 10px;
+	padding: 10px;
+	color: grey;
+	text-align: center;
+	border: solid medium red;
+}
+
+.formulaire
+{
+    margin:auto;
+    width:80%;
+}
